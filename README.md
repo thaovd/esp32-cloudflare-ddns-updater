@@ -40,7 +40,7 @@ Optional: Connect LED to GPIO 2 and GND for status indication.
 ### 2. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/thaovd/esp32-cloudflare-ddns-updater.git)
 cd esp-ddns
 ```
 
